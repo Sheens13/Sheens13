@@ -1,5 +1,5 @@
 - 👋 Hi, sheens is heree
-- 👀 I’m interested in cracking
+- 👀 I’m interested in cracking code
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
